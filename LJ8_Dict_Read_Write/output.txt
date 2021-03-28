@@ -1,0 +1,1 @@
+{'Sony': ['brand'], 'Playstation 4': ['model'], 'Call of Duty Warzone': ['title'], 'First Person Shooter': ['genre'], 'Infinity Ward': ['producer'], 2020: ['year']}
